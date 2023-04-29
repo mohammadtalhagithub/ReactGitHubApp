@@ -1,0 +1,39 @@
+.HeadingComp {
+    color: rgb(249, 249, 249);
+    background-color: #006b67;
+    text-align: center;
+
+}
+
+.main-heading {
+    color: #61DAE7;
+    background-color: #20232A;
+    height: 80px;
+}
+
+.projects {
+    color: red;
+    text-align: center;
+    height: 300px;
+    border-radius: 30px;
+    border: #f0f0f0 3px solid;
+    margin: 10px;
+    width: 20%;
+}
+
+.card-body h5 {
+    color: #006B67;
+}
+
+.card-row {
+    /* background-color: red; */
+    /* display: block;     */
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
