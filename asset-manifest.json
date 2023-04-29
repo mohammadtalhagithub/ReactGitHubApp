@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactGitHubApp/static/css/main.c0df03d0.css",
+    "main.js": "/ReactGitHubApp/static/js/main.36876737.js",
+    "static/js/787.f56a55be.chunk.js": "/ReactGitHubApp/static/js/787.f56a55be.chunk.js",
+    "static/media/Firewatch_Wallpaper_cropped.jpg": "/ReactGitHubApp/static/media/Firewatch_Wallpaper_cropped.04d6975300f0616b90e5.jpg",
+    "index.html": "/ReactGitHubApp/index.html",
+    "main.c0df03d0.css.map": "/ReactGitHubApp/static/css/main.c0df03d0.css.map",
+    "main.36876737.js.map": "/ReactGitHubApp/static/js/main.36876737.js.map",
+    "787.f56a55be.chunk.js.map": "/ReactGitHubApp/static/js/787.f56a55be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0df03d0.css",
+    "static/js/main.36876737.js"
+  ]
+}
